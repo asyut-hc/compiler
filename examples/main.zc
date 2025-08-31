@@ -1,0 +1,7 @@
+let name = "hello";
+let name2 = "world";
+print(name);
+print(" ");
+print(name2);
+print("\n");
+return 0;
